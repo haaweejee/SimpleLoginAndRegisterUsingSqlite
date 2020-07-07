@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginRegisterUsingSQLite</string>
+    <string name="astroboy">Astroboy</string>
+    <string name="error_message_username">Masukkan Username</string>
+    <string name="error_message_password">Masukkan Password</string>
+    <string name="error_valid_username_password">Tidak bisa Login, Username atau password salah</string>
+    <string name="error_message_password_match">Password tidak sama</string>
+    <string name="success_message">User berhasil Disimpan</string>
+    <string name="error_message_user_exits">User Sudah Ada Coba buat yang lain</string>
+    <string name="hint_name">Nama</string>
+    <string name="hint_password">Password</string>
+</resources>
